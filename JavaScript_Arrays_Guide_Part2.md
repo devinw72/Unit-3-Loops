@@ -14,12 +14,6 @@ An array is an ordered list of values, stored in a single variable.
 const students = ["Charlie", "Olivia", "Rodney", "Bill", "London"];
 ```
 
-Instead of creating five separate variables (`student1`, `student2`, ...), you store all five names together in one list, wrapped in square brackets `[ ]` and separated by commas.
-
-### Indexing — How to Access One Item
-
-Every item in an array has a position number called an **index**, starting at `0` (not `1`!).
-
 | Index | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|
 | Value | "Charlie" | "Olivia" | "Rodney" | "Bill" | "London" |
