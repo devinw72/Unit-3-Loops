@@ -6,8 +6,18 @@ total=0
  }
     return numbers; 
 
-    }
+    } */
+ function countVowels(str) {
+   let vowels=0 
+   length=str.length
+   for (i=0;i<length;i++)
+      if (str.includes(a|e|i|o|u));
+   
+
+     
+   }
+console.log(countVowels("hello"));   
 
     
-    
-countV
+   
+
