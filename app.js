@@ -1,4 +1,4 @@
-/* function getNumbersInRange(start,end) {
+/* /* function getNumbersInRange(start,end) {
 const numbers= [];
 total=0 
  for (let i=start; i<=end; i++) {
@@ -7,16 +7,7 @@ total=0
     return numbers; 
 
     } */
- function countVowels(str) {
-   let vowels=0 
-   length=str.length
-   for (i=0;i<length;i++)
-      if (str.includes(a|e|i|o|u));
-   
 
-     
-   }
-console.log(countVowels("hello"));   
 
     
    
@@ -41,8 +32,11 @@ function slots (q,M1,M2,M3) {
 }
 slots(100,35,100,10) 
  */
+ 
 
-function elderWand (owner,number,battle) {
-const Wizard= []
-   while (number>0);
+let n = 0;
+let x = 0;
+while (n < 3) {
+  n++;
+  x += n;
 }
