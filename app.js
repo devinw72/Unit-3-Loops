@@ -40,3 +40,12 @@ while (n < 3) {
   n++;
   x += n;
 }
+
+function rollerCoaster(age,height,parent,number) {
+   {for (i=0;i<number;i++)
+      if(age>=12 && height>=120)
+      return "You are allowed to ride" 
+else if (age<12 && parent===Y && height>=120)
+   return "You are allowed to ride"
+}
+}
