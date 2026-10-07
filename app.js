@@ -44,8 +44,13 @@ while (n < 3) {
 function rollerCoaster(age,height,parent,number) {
    {for (i=0;i<number;i++)
       if(age>=12 && height>=120)
-      return "You are allowed to ride" 
+        console.log ("You are allowed to ride") 
 else if (age<12 && parent===Y && height>=120)
-   return "You are allowed to ride"
+   console.log ("You are allowed to ride")
+else if (age<12 && parent===N)
+   console.log ("You are not allowed to ride");
+else if (height<120)
+  console.log ("You are not allowed to ride");
 }
 }
+rollerCoaster(15,125,"Y",2)
